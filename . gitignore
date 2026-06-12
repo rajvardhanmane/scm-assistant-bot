@@ -1,0 +1,7 @@
+.env
+*.env
+*.key
+*api_key*
+credentials.json
+node_modules/
+.DS_Store
